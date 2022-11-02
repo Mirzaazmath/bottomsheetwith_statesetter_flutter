@@ -1,6 +1,7 @@
 # tem
 
 A new Flutter project.
+![Simulator Screen Recording - iPhone SE (3rd generation) - 2022-11-02 at 13 40 12](https://user-images.githubusercontent.com/96089446/199435425-a610e62c-476b-4660-a85f-2dffbe351aec.gif)
 
 ## Getting Started
 
